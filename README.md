@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi, I'm Izan! 🧩
+ - Currently working as a Junior developer in Mango.
+ - Currently studying Software Engineering in UPC-FIB.
+ - Open to collaborating on cool projects!
+ 
+ ![Stats](https://github-readme-stats.vercel.app/api?username=izancobl&show_icons=true&theme=dark)
 
 <!--
 **izancobl/izancobl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
